@@ -1,5 +1,7 @@
 # Dear-Data-100
+
 The Burgundy Frequency Matrix
+
 Over the Autumn and Winter period, I recorded every instance in which individuals wore a burgundy clothing item during my commute and time in university setiings.
 As someone whose favourite colour is burgundy, this project helps me explore the boundary between personal style identity, shifting fashion trends and when overconsumption in a trend reaches too far.
 
